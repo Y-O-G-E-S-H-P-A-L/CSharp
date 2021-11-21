@@ -1,0 +1,14 @@
+C:\Users\ypdel\source\repos\CSharpLearningCode\CSharpLearningCode\bin\Debug\CSharpLearningCode.exe.config
+C:\Users\ypdel\source\repos\CSharpLearningCode\CSharpLearningCode\bin\Debug\CSharpLearningCode.exe
+C:\Users\ypdel\source\repos\CSharpLearningCode\CSharpLearningCode\bin\Debug\CSharpLearningCode.pdb
+C:\Users\ypdel\source\repos\CSharpLearningCode\CSharpLearningCode\obj\Debug\CSharpLearningCode.csproj.AssemblyReference.cache
+C:\Users\ypdel\source\repos\CSharpLearningCode\CSharpLearningCode\obj\Debug\CSharpLearningCode.csproj.CoreCompileInputs.cache
+C:\Users\ypdel\source\repos\CSharpLearningCode\CSharpLearningCode\obj\Debug\CSharpLearningCode.exe
+C:\Users\ypdel\source\repos\CSharpLearningCode\CSharpLearningCode\obj\Debug\CSharpLearningCode.pdb
+D:\@Palji\C#\CSharpLearningCode\bin\Debug\CSharpLearningCode.exe.config
+D:\@Palji\C#\CSharpLearningCode\bin\Debug\CSharpLearningCode.exe
+D:\@Palji\C#\CSharpLearningCode\bin\Debug\CSharpLearningCode.pdb
+D:\@Palji\C#\CSharpLearningCode\obj\Debug\CSharpLearningCode.csproj.AssemblyReference.cache
+D:\@Palji\C#\CSharpLearningCode\obj\Debug\CSharpLearningCode.csproj.CoreCompileInputs.cache
+D:\@Palji\C#\CSharpLearningCode\obj\Debug\CSharpLearningCode.exe
+D:\@Palji\C#\CSharpLearningCode\obj\Debug\CSharpLearningCode.pdb
